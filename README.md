@@ -1,4 +1,5 @@
 # LudoGame
+Webb applikationen är ett MVC projekt med ett tillhörande Webb API.
 ## How to play:
 - There has to be at least 2-4 players to begin the Ludo Game.
 - Every player has four pieces each on the board.
@@ -32,8 +33,6 @@
     <img src="Ludo-Webb-Api/docs/API.PNG" width="750px">
   </a>
 </p>
-
-
 
 #### Uppgift beskrvningen: https://pgbfdh18.github.io/webbutveckling-backend/project3.html
 
