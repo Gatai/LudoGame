@@ -2,8 +2,7 @@
 
 
 
-### Bild på API.  
-Vi har utgått från Stephan Kaas Johansen GameEnginge, samt API beskrvining. För att skriva reseterande delar av API:et har vi tagit hjälp av sidor via google så som stackoverflow, microsoft docs mfl.
+### API  
 <p align="center">
   <a href="https://github.com/Gatai/LudoGame">
     <img src="Ludo-Webb-Api/docs/API.PNG" width="750px">
