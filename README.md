@@ -34,6 +34,6 @@ Webb applikationen är ett MVC projekt med ett tillhörande Webb API.
   </a>
 </p>
 
-#### Uppgift beskrvningen: https://pgbfdh18.github.io/webbutveckling-backend/project3.html
+Uppgift beskrvningen: https://pgbfdh18.github.io/webbutveckling-backend/project3.html
 
 #### Utevcklad av Lovedeep brar, Lena Person, Viktor Person och Phatchari Jansson
